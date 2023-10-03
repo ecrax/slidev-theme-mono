@@ -2,22 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-mono?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-mono)
 
-A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
-
-<!--
-  Learn more about how to write a theme:
-  https://sli.dev/themes/write-a-theme.html
---->
-
-<!--
-  run `npm run dev` to check out the slides for more details of how to start writing a theme
--->
-
-<!--
-  Put some screenshots here to demonstrate your theme
-
-  Live demo: [...]
--->
+A monospaced theme for [Slidev](https://github.com/slidevjs/slidev).
 
 ## Install
 
@@ -33,13 +18,13 @@ Learn more about [how to use a theme](https://sli.dev/themes/use).
 
 This theme provides the following layouts:
 
-> TODO:
+- `cover` - a cover page with a title, subtitle, date and author
 
 ## Components
 
 This theme provides the following components:
 
-> TODO:
+- `CurrentDate` - displays the current date
 
 ## Contributing
 

@@ -1,6 +1,15 @@
 {
   "name": "slidev-theme-mono",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ecrax/slidev-theme-mono#readme",
+  "bugs": {
+    "url": "https://github.com/ecrax/slidev-theme-mono/issues"
+  },
+  "author": {
+    "name": "Leo Kling",
+    "url": "https://leo-kling.dev/"
+  },
+  "license": "MIT",
   "keywords": [
     "slidev-theme",
     "slidev"
@@ -22,9 +31,9 @@
     "theme-vitesse": "^0.7.3"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.43.6"
+    "@slidev/cli": "^0.43.6",
+    "playwright-chromium": "^1.38.1"
   },
-  "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
     "colorSchema": "both",
     "highlighter": "all",
