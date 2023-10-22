@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col justify-center items-center w-full">
+  <div class="flex flex-col justify-center items-center w-full h-full">
     <div class="flex flex-1 justify-center items-center">
       <h1 class="text-4xl font-bold">
         <slot name="title" />
